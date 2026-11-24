@@ -1,0 +1,3 @@
+# Credential-dumping executables must not be committed.
+# mimikatz.exe was removed from the working tree. Copies already in git history are unchanged.
+mimikatz.exe
